@@ -7,8 +7,4 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 b = float(input(ความยาวฐาน))
 h = float(input(ความสูง))
-num1 = int(input("b: "))
-num2 = int(input("h: "))
-
-total = num1 * nam2 * 0.5
-print = ("พื้นที่สามเหลี่ยม : ", total)
+print = (0.5 * b * h)
