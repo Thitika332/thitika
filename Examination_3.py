@@ -10,4 +10,4 @@ score = int(input(ตรวจผลการสอบ))
 score: (int(input" Pass: >50 :"))
 score: (int(input" FailL: <50 :"))
 
-total: 
+total: ("คะเเนนสอบ :  ")
