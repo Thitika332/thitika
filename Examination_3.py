@@ -6,4 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-score = int(input())
+score = int(input(ตรวจผลการสอบ))
+score: (int(input" Pass: >50 :"))
+score: (int(input" FailL: <50 :"))
+
+total: 
